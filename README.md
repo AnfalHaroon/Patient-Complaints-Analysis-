@@ -2,7 +2,7 @@
 
 🎯 Objective
 
-Analyze patient complaints data in a healthcare facility with the aim of cleaning, organizing, and visually presenting the data to understand and review complaint types and their frequency. This helps improve patient satisfaction and identify priorities within the healthcare facility.
+Analyze patient complaints data in a healthcare facility with the aim of cleaning, organizing, and visually presenting the data to understand and review complaint types and their frequency. The goal is to understand complaint patterns, identify common issues, and highlight areas that may require further investigation to support patient experience improvement.
 -
 📂 Data Used
 
@@ -25,7 +25,7 @@ Creating an interactive Dashboard
 
 2. Go to the Dashboard sheet.
 
-3. Use Slicers to filter by complaint type or status.
+3. Use Slicers to filter the dashboard by available fields.
 
 4. Observe updates in the interactive Pivot Charts.
 ---
@@ -46,4 +46,4 @@ Build more interactive visualizations using Power BI.
 ---
 👩‍💻 About Me
 
-I am Anfal Haroon , a healthcare data analyst passionate about using data to improve patient experience and support medical decision-making.
+I am Anfal Haroon, a healthcare data analyst passionate about using data to understand healthcare operations, improve patient experience, and support better decisions.
