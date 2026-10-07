@@ -37,6 +37,27 @@ Interactive dashboard in Excel to filter complaints by type and date.
 
 Insights and analyses highlighting the most frequent complaint categories and trends over time.
 
+# Key Insights
+
+_ Waiting Time was the most frequent complaint category, with 68 complaints.
+
+_ Complaints varied across the weeks, reaching 35 complaints in Week 14 and 7 in Week 8.
+
+_ Tuesday had the highest number of complaints among the days shown, with 59 complaints.
+
+_ Complaint volume varied across the analyzed months.
+
+
+# Business Questions
+
+What are the most common patient complaint types?
+
+How do complaints change over time?
+
+Which weeks have the highest complaint volume?
+
+Which days have the highest number of complaints?
+
 ---
 🔮 Next Steps
 
