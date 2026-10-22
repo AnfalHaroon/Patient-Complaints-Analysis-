@@ -35,9 +35,13 @@ An Excel project that cleans a patient complaints dataset, analyzes complaint pa
 # Dashboard Views
 
 • Complaints over date (daily trend)
+
 • Top complaint types
+
 • Complaints over month
+
 • Complaints over week
+
 • Complaints by day of the week
 
 # Key Findings
