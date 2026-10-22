@@ -1,8 +1,6 @@
 # Patient Complaints Analysis
 
 An Excel project that cleans a patient complaints dataset, analyzes complaint patterns, and presents them in an interactive dashboard.
-�
-Load image
 
 # Project Summary
 
