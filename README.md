@@ -1,89 +1,90 @@
-Patient Complaints Analysis
+# Patient Complaints Analysis
 
 An Excel project that cleans a patient complaints dataset, analyzes complaint patterns, and presents them in an interactive dashboard.
 �
 Load image
 
-Project Summary
+# Project Summary
 
-Goal: Understand complaint types and how complaints change over time
+• Goal: Understand complaint types and how complaints change over time
 
-Data: Patient complaints dataset (CSV/Excel), Kaggle open-source
+• Data: Patient complaints dataset (CSV/Excel), Kaggle open-source
 
-Period: January to March
+• Period: January to March
 
-Total complaints: 262
+• Total complaints: 262
 
-Tools: Microsoft Excel (data cleaning, PivotTables, PivotCharts, Slicers)
-Business Questions
+• Tools: Microsoft Excel (data cleaning, PivotTables, PivotCharts, Slicers)
 
-What are the most common patient complaint types?
+# Business Questions
 
-How does complaint volume change by month and by week?
+1_ What are the most common patient complaint types?
 
-Which days of the week have the most complaints?
+2_ How does complaint volume change by month and by week?
 
-Process
+3_ Which days of the week have the most complaints?
 
-Cleaned the data: removed duplicates and handled missing values.
+# Process
 
-Summarized the data with PivotTables (by complaint type, date, month, week, and weekday).
+1_ Cleaned the data: removed duplicates and handled missing values.
 
-Built five PivotCharts and combined them into one dashboard.
+2_ Summarized the data with PivotTables (by complaint type, date, month, week, and weekday).
 
-Added Slicers so the dashboard can be filtered by complaint type and date.
+3_ Built five PivotCharts and combined them into one dashboard.
 
-Dashboard Views
+4_ Added Slicers so the dashboard can be filtered by complaint type and date.
 
-Complaints over date (daily trend)
-Top complaint types
-Complaints over month
-Complaints over week
-Complaints by day of the week
+# Dashboard Views
 
-Key Findings
+• Complaints over date (daily trend)
+• Top complaint types
+• Complaints over month
+• Complaints over week
+• Complaints by day of the week
 
-Waiting time is the top complaint: 68 of 262 complaints (26%).
+# Key Findings
 
-Complaints rose over the period: March had 139 complaints (53%), compared with 69 in January (26%) and 54 in February (21%).
+• Waiting time is the top complaint: 68 of 262 complaints (26%).
 
-Weekly volume rose sharply: from 7 complaints in Week 8 to 35 in Week 14.
+• Complaints rose over the period: March had 139 complaints (53%), compared with 69 in January (26%) and 54 in February (21%).
 
-Complaints concentrate on weekdays: 
+• Weekly volume rose sharply: from 7 complaints in Week 8 to 35 in Week 14.
 
+• Complaints concentrate on weekdays: 
 Tuesday (59), Thursday (58), and Friday (55) had the highest counts.
 
-Saturday is almost empty: only 1 complaint.
+• Saturday is almost empty: only 1 complaint.
 
-Suggested Next Steps
+# Suggested Next Steps
 
 The data shows patterns, not causes.
-
 Possible follow-up questions:
 
-What happened in March that could explain the increase?
-Are waiting-time complaints tied to specific days or hours? (This needs time-of-day and clinic fields.)
+• What happened in March that could explain the increase?
 
-Is the low Saturday count caused by reduced service hours or by missing data?
-Track waiting-time complaints monthly as a service-quality indicator.
+• Are waiting-time complaints tied to specific days or hours? (This needs time-of-day and clinic fields.)
 
-How to Use
+• Is the low Saturday count caused by reduced service hours or by missing data?
 
-Open the Excel workbook (.xlsx).
+• Track waiting-time complaints monthly as a service-quality indicator.
 
-Go to the Dashboard sheet.
+# How to Use
 
-Use the Slicers to filter the data.
+1_ Open the Excel workbook (.xlsx).
 
-Watch the PivotCharts update.
+2_ Go to the Dashboard sheet.
 
-Data Notes
+3_ Use the Slicers to filter the data.
 
-Week 2 and Week 14 may be partial weeks, since the data starts on January 4 and ends on March 31.
+4_ Watch the PivotCharts update.
 
-The dataset has no department/clinic field, so complaints cannot be compared across locations.
+# Data Notes
 
-Skills Demonstrated
+• Week 2 and Week 14 may be partial weeks, since the data starts on January 4 and ends on March 31.
+
+• The dataset has no department/clinic field, so complaints cannot be compared across locations.
+
+# Skills Demonstrated
 
 Data cleaning, PivotTables, dashboard design, trend analysis, and turning findings into follow-up questions.
 
